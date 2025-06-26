@@ -25,7 +25,7 @@
 - 🔭 Currently working as a **Frontend Developer** building scalable web applications
 - 🌱 Learning: Advanced React patterns, Web3 integration, and modern DevOps practices
 - 🎯 Focus: Performance optimization, accessibility, and user-centric development
-- 💬 Ask me about **React**, **JavaScript/TypeScript**, and **C++**
+- 💬 Ask me about: **React**, **JavaScript/TypeScript**, and **C++**
 - 📫 Reach me at: [221b489@juetguna.in](mailto:221b489@juetguna.in)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun Fact: *“It works on my machine!”* 😛
