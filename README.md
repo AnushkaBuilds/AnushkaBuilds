@@ -8,11 +8,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
 </p>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/I%20❤️%20Clean%20Code-%2300C4CC?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%20Magician-%23FF61A6?style=for-the-badge&logo=react&logoColor=white" />
-</h2>
-
 <p align="center">
   <strong>🎨 I build smooth interfaces, craft scalable frontend logic, and turn pixels into polished products.</strong><br/>
   <em>Currently perfecting my wizardry in React, Javascript, and clean UI motion. ✨</em>
