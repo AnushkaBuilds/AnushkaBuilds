@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450" alt="UI dev gif" />
 </p>
+
 
 <p align="center">
   <strong>🎨 I build smooth interfaces, craft scalable frontend logic, and turn pixels into polished products.</strong><br/>
