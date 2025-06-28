@@ -58,11 +58,6 @@
   <em>🌱 Still early in the journey, but every line of code takes me closer. Grateful for the process, and excited for what’s ahead! 💻✨</em>
 </p>
 
----
-
-<div align="center">
-  <h3>✨ Thanks for exploring my digital space! Don't forget to star ⭐ something that catches your eye! ✨</h3>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F783AC&height=90&section=footer"/>
