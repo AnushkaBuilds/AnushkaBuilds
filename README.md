@@ -28,18 +28,16 @@
 ---
 
 ### 💻 Mastered Technologies & Topics
-Core Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,cpp,python&theme=dark" />
 </div>
-Frontend Ecosystem
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,redux,zustand&theme=dark" />
 </div>
-Development Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,vscode,figma,npm,yarn&theme=dark" />
 </div>
+
 ---
 
 ### 📊 GitHub Activity & Stats
@@ -62,24 +60,13 @@ Development Tools
 
 ---
 
-### 🎯 Fun Extras
-
-- 🎧 Currently coding to: **Epic instrumental playlists & lo-fi beats**
-- 🚀 Goals: Keep learning, keep shipping, and maybe break production less 😅
-- 🎨 Always curious about: **UX design, animations, and the art of perfect CSS**
-
----
-
-### 💬 Quote I Live By
-
-> *“First, solve the problem. Then, write the code.” – John Johnson*
-
----
-
 <div align="center">
   <h3>✨ Thanks for exploring my digital space! Don't forget to star ⭐ something that catches your eye! ✨</h3>
-  <p><em>Building the web, one component at a time 🚀</em></p>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F783AC&height=90&section=footer"/>
+</p>
 
 <!--
 **AnushkaBuilds/AnushkaBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
